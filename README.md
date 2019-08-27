@@ -2,4 +2,4 @@
 Minimal docker image for running curl
 
 # usage
-docker run --rm efialkowski/curler https://hub.docker.com
+docker run --rm ericfialkowski/curler https://hub.docker.com
